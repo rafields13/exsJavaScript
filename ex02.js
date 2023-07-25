@@ -6,8 +6,8 @@ function maiorNumero(lista = []) {
             maior = lista[i]
         }
     } 
-    
+
     return maior
 }
 
-console.log(maiorNumero([9, 3, 1, 7, 4]))
+console.log(maiorNumero([10, 3, 6, 7, 4]))
