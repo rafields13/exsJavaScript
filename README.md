@@ -58,7 +58,7 @@ ordenarDecrescente([5, 2, 8, 1]);
 [8, 5, 2, 1]
 ```
 
-##12.
+## 12.
 
 Escreva uma função que receba uma string como parâmetro e retorne a mesma string com todas as vogais substituídas pelo caractere '*'.
 
